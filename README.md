@@ -9,7 +9,7 @@ Harnessing the power of cutting-edge distributive technologies like Apache Spark
 
 **Data Source: Unveiling Key Insights**
 
-Datasource used in our project  https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+Datasource used in our project  [https://www.kaggle.com/datasets/meirnizri/covid19-dataset]
 
 Our exploration pivoted around the "Coronavirus (covid19) Tweets - early April" dataset sourced from Kaggle. We placed emphasis on pivotal aspects such as dynamic scaling, fault tolerance, reliability, and resource sharing to ensure a comprehensive understanding of the data landscape.
 
